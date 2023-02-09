@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi! This is shumingwu!
 
-<!--
-**wushuming666/wushuming666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice to meet you! :blush:
 
-Here are some ideas to get you started:
+- 🌱 I’m currently majoring in Computer Science and Technology at WHPU.
+- 📖 You can see some technical articles I share daily at [a personal website.](https://wsmcs.cn/)
+- ✨ I took part in some competitions in the past and made a lot of friends. Thank them.
+- 📚 ~I prefer novels to technical books.~ But now I don't have enough time to read extracurricular books.
+- 📫 How to reach me: 2445806031@qq.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wushuming666&theme=dark&layout=compact)
+
+### My Skills
+[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,git,linux,mysql,vscode)](https://skillicons.dev)
