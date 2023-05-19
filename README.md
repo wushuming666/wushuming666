@@ -8,8 +8,6 @@ Nice to meet you! :blush:
 - 📚 ~I prefer novels to technical books.~ But now I don't have enough time to read extracurricular books.
 - 📫 How to reach me: 2445806031@qq.com
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wushuming666&theme=dark&layout=compact)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wushuming666)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Skills
