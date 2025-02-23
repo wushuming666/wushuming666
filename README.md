@@ -1,14 +1,8 @@
-### Hi! This is shuming wu!
+hello
 
-Nice to meet you! :blush:
-
-- 🌱 I’m currently majoring in Computer Science and Technology at WHPU.
-- 📖 You can see some technical articles I share daily at [a personal website.](https://wsmcs.cn/)
-- ✨ I took part in some competitions in the past and made a lot of friends. Thank them.
-- 📚 ~I prefer novels to technical books.~ But now I don't have enough time to read extracurricular books.
-- 📫 How to reach me: 2445806031@qq.com
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wushuming666)](https://github.com/anuraghazra/github-readme-stats)
-
-### My Skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,git,linux,mysql,vscode)](https://skillicons.dev)
+* 本科毕业于WHPU，计科专业。
+* 在本科阶段比较喜欢在力扣上冲浪。[力扣主页](https://leetcode.cn/u/wushuming/)
+* 目前在小米南京工作。工作内容是UDS诊断仪。
+* 在了解ai开发相关的技术中。在[飞书上写笔记](https://kxl878ee8o.feishu.cn/wiki/Bm1kwG8jwi4E8qkuwyGcO3FoncP?from=from_copylink)
+* 目前的兴趣有：骑行、电吉他（新手ing）
+* 曾经的兴趣有：玩游戏、摄影、旅行
